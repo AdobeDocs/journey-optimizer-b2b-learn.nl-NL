@@ -1,11 +1,11 @@
 ---
 user-guide-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
 breadcrumb-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
-user-guide-description: Leer hoe u het meeste uit  [!DNL Journey Optimizer B2B Edition] haalt. Orchestrate account and purchase group traps using built-in generative AI and industrial-leading automation to maximize demand for specific offerings.
+user-guide-description: Leer hoe u het meeste uit  [!DNL Journey Optimizer B2B Edition] haalt. Orkestreer account- en inkoopgroepstrajecten met behulp van ingebouwde generatieve AI en toonaangevende automatisering om de vraag naar specifieke aanbiedingen te maximaliseren.
 source-git-commit: fe90fa5cd8d893a8c255d24df4b24e52e6f9a962
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 47%
 
 ---
 
