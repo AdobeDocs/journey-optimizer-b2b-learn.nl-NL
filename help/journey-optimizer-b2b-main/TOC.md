@@ -2,7 +2,7 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 user-guide-description: Leer hoe u het meeste uit  [!DNL Journey Optimizer B2B Edition] haalt. Orkestreer account- en inkoopgroepstrajecten met behulp van ingebouwde generatieve AI en toonaangevende automatisering om de vraag naar specifieke aanbiedingen te maximaliseren.
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 37%
@@ -15,8 +15,8 @@ ht-degree: 37%
 + [[!DNL Journey Optimizer B2B Edition] Tutorials](overview.md)
 + [[!DNL Journey Optimizer B2B Edition]-overzicht](/help/overview-video.md)
 + Accountreizen {#account-journeys}
-   + [Introductie van accountreizen](/help/account-journeys/introducing-account-journeys.md)
-   + [Een rekeningpad maken](/help/account-journeys/create-an-account-journey.md)
+   + [Accountreizen introduceren](/help/account-journeys/introducing-account-journeys.md)
+   + [Een accountreis maken](/help/account-journeys/create-an-account-journey.md)
    + Reisknooppunten {#journey-nodes}
       + [Actieknooppunt](/help/account-journeys/journey-nodes/action-node.md)
       + [Knooppunt luisteren](/help/account-journeys/journey-nodes/listen-node.md)
