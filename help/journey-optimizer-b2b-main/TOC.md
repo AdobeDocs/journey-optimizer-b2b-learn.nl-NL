@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 user-guide-description: Leer hoe u het meeste uit  [!DNL Journey Optimizer B2B Edition] haalt. Orkestreer account- en inkoopgroepstrajecten met behulp van ingebouwde generatieve AI en toonaangevende automatisering om de vraag naar specifieke aanbiedingen te maximaliseren.
-source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
+source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 37%
+source-wordcount: '72'
+ht-degree: 36%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 37%
       + [Reis gesplitst account](/help/account-journeys/journey-nodes/split-account-journey.md)
 + Groepen kopen {#buying-groups}
    + [Overzicht inkoopgroepen](/help/buying-groups/buying-groups-overview.md)
+   + [Groepsfasen voor kopen](/help/buying-groups/buying-group-stages.md)
    + [Een inkoopgroep maken](/help/buying-groups/create-a-buying-group.md)
    + [Rolsjablonen](/help/buying-groups/role-templates.md)
    + [Oplossingsrente](/help/buying-groups/solution-interest.md)
