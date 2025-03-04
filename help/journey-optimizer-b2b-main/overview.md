@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 description: Bekijk videozelfstudies op  [!DNL Journey Optimizer B2B Edition]. Verbeter uw begrip van hoe te om rekening te organiseren en groepsreizen en meer te kopen.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Leer hoe u zoveel mogelijk kunt profiteren van [!DNL Journey Optimizer B2B Editi
 
 ## Nieuwe functies {#whats-new}
 
-* [ Introducerend de Reizen van de Rekening ](/help/account-journeys/introducing-account-journeys.md)
-  _leer allen over de Reizen van de Rekening en hoe te om hen te gebruiken om uw doelpubliek in dienst te nemen._
+* [ het Kopen groepsstadia ](/help/buying-groups/buying-group-stages.md)
+  _leer hoe te om veelvoudige het kopen fasen van de paginaleven van de groepslevenscyclus binnen één enkel werkgebiedmodel tot stand te brengen en de overgangsregels te specificeren._
 
-* [ creeer een Weg van de Rekening ](/help/account-journeys/create-an-account-journey.md)
-  _leer hoe te om rekeningspubliek, actieknooppunt te gebruiken, knoop, en gespleten wegknoop te luisteren om de Reizen van de Rekening te creëren._
+* [ luister naar de gebeurtenissen van AEP ](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _bepaal en gebruik om het even welke ervaringsgebeurtenis in uw rekeningsreis._
 
-* [ knoop van de Actie ](/help/account-journeys/journey-nodes/action-node.md)
-  _leer over actieknooppunten en hoe te om hen te vormen wanneer het creëren van een Weg van de Rekening._
-
-* [ luistert knoop ](/help/account-journeys/journey-nodes/listen-node.md)
-  _leer over luisterknopen en hoe te om hen te vormen wanneer het creëren van een Journaal van de Rekening._
-
-* [ Splitste de Weg van de Rekening ](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _leer over spleet/voeg wegknopen samen en hoe te om hen te vormen wanneer het creëren van een Weg van de Rekening._
+* [ Betaalde media orkest ](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _leer hoe te om een reis te gebruiken om mensen in een extern publiek te bewegen, dat u aan om het even welke gesteunde media bestemming in de de bestemmingscatalogus van AEP kunt dan duwen._
 
 ## Meest populaire video&#39;s {#most-popular-videos}
 
