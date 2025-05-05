@@ -57,4 +57,4 @@ het is vrij om contact op te nemen met bestaande toezeggingen om hierover te pra
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [ dossier een kwestie aan onze veiligheidsdeskundigen ](https://helpx.adobe.com/security/alertus.html)
+Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [ dossier een kwestie aan onze veiligheidsdeskundigen ](https://helpx.adobe.com/nl/security/alertus.html)
