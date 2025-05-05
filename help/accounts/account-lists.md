@@ -30,4 +30,4 @@ Zodra accountlijsten zijn gemaakt en gevuld met relevante accounts, kunnen deze 
 
 Samengevat zijn accountlijsten in AJO B2B een fundamenteel element voor het beheren en ordenen van marketing op basis van account en activiteiten op het gebied van klantbetrokkenheid. Met deze services kunnen gebruikers marketingafspraken voor belangrijke accounts organiseren, als doel instellen en personaliseren, waardoor ze zinvolle interacties en relaties kunnen aansturen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448655/?learn=on&enablevpops&captions=dut)

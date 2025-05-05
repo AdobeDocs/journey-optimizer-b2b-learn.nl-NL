@@ -22,4 +22,4 @@ De fasen van de inkoopgroep vertegenwoordigen de verschillende fasen die een ink
 
 Met deze functie kunt u meerdere fasen in de levenscyclus van inkoopgroepen maken in één enkel werkgebiedmodel en de overgangsregels opgeven. Door deze regels in te stellen, hebt u volledige controle over de manier waarop een inkoopgroep van het ene stadium naar het andere kan gaan. Werkgebiedovergangen kunnen vervolgens worden geautomatiseerd binnen een reis, waarbij deze functies worden gecombineerd tot één krachtige stroom.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448700/?learn=on&enablevpops&captions=dut)

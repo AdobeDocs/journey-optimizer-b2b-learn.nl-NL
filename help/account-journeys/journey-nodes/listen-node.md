@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer over luisterknopen en hoe te om hen te vormen wanneer het creëren van een Dagreis van de Rekening.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443240/?learn=on&enablevpops&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer alles over de Reizen van de Rekening en hoe te om hen te gebruiken om uw doelpubliek in dienst te nemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443213/?learn=on&enablevpops&captions=dut)

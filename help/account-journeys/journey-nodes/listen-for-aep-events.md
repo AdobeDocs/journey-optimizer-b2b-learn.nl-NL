@@ -24,4 +24,4 @@ Als u luistert naar AEP Events in AJO B2B, kunt u alle ervaringsgebeurtenissen i
 
 * AEP-gebeurtenissen gebruiken voor een accountrit
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448689/?learn=on&enablevpops&captions=dut)

@@ -30,4 +30,4 @@ Als oplossing voor deze uitdaging biedt AJO B2B u de mogelijkheid om:
 
 In deze video demonstreren we het gebruik van een reis om mensen naar een extern publiek te verplaatsen. Vervolgens kunt u naar elke ondersteunde bestemming voor betaalmedia in de AEP-doelcatalogus gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448678/?learn=on&enablevpops&captions=dut)

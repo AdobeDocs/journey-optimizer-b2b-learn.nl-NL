@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer over het kopen van groepsoplossingsbelangen en hoe te om hen te vormen/te gebruiken wanneer het creëren van een het kopen groep.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450119/?learn=on&captions=dut)

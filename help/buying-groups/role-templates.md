@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer over het kopen van de malplaatjes van de groepsrol en hoe te om hen te vormen/te gebruiken wanneer het creëren van een het kopen groep.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453307/?learn=on&captions=dut)

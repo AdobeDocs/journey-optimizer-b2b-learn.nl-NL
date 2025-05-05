@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een accountpubliek, een rolsjabloon en een interesse in oplossingen kunt gebruiken om inkoopgroepen te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451767/?learn=on&captions=dut)

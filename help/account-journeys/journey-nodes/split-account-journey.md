@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer over spleet/fusiepadknopen en hoe te om hen te vormen wanneer het creëren van een Reizen van de Rekening.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443262/?learn=on&enablevpops&captions=dut)

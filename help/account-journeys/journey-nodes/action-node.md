@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer over actieknooppunten en hoe te om hen te vormen wanneer het creëren van een Journaal van de Rekening.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443251/?learn=on&enablevpops&captions=dut)
