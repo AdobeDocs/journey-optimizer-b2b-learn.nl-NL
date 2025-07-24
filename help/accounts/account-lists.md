@@ -8,11 +8,9 @@ doc-type: Feature Video
 duration: 331
 last-substantial-update: 2025-02-28T00:00:00Z
 jira: KT-17442
-hide: true
-hidefromtoc: true
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -20,14 +18,14 @@ ht-degree: 0%
 
 # Accountlijsten
 
-Als u accountlijsten gebruikt, kunt u gefilterde accountlijsten maken die u als reispubliek kunt gebruiken.
+Door accountlijsten te gebruiken, kunt u gefilterde lijsten met accounts maken die als reispubliek kunnen worden gebruikt.
 
-Accountlijsten worden gebruikt om accounts te groeperen en te organiseren op basis van specifieke criteria, zoals de industrie, grootte, locatie of andere relevante kenmerken. Deze lijsten zijn essentieel voor het richten en personaliseren van marketingopdrachten, het organiseren van klantreizen en het beheren van op accounts gebaseerde marketingstrategieën in AJO B2B.
+Accountlijsten worden gebruikt om accounts te groeperen en te organiseren op basis van specifieke criteria, zoals de industrie, grootte, locatie of andere relevante kenmerken. Deze lijsten zijn van essentieel belang voor het maken van doelgerichte marketingopdrachten en het aanpassen van uw identiteit, het ordenen van klantritten en het beheren van marketingstrategieën op basis van accounts in [!DNL Journey Optimizer B2B Edition] .
 
-In AJO B2B kunnen gebruikers accountlijsten maken, beheren en onderhouden ter ondersteuning van hun marketing- en verkoopinitiatieven. Accountlijsten kunnen worden gebruikt om doelpubliek te definiëren, de ervaringen van klanten aan te passen en de betrokkenheid met belangrijke accounts te stimuleren.
+Binnen [!DNL Journey Optimizer B2B Edition] kunt u accountlijsten maken, beheren en onderhouden ter ondersteuning van uw marketing- en verkoopinitiatieven. Accountlijsten kunnen worden gebruikt om doelpubliek te definiëren, de ervaringen van klanten aan te passen en de betrokkenheid met belangrijke accounts te stimuleren.
 
-Zodra accountlijsten zijn gemaakt en gevuld met relevante accounts, kunnen deze via verschillende kanalen en aanraakpunten worden geactiveerd om persoonlijke en gerichte marketingopdrachten te kunnen uitvoeren. AJO B2B biedt mogelijkheden om accountlijsten te activeren voor op account gebaseerde marketingcampagnes, klantreizen en andere marketingactiviteiten.
+Nadat accountlijsten zijn gemaakt en met relevante accounts zijn gevuld, kunnen deze via verschillende kanalen en aanraakpunten worden geactiveerd om persoonlijke en gerichte marketingopdrachten te kunnen uitvoeren. [!DNL Journey Optimizer B2B Edition] biedt mogelijkheden om accountlijsten te activeren voor marketingcampagnes op basis van account, reizen van klanten en andere marketingactiviteiten.
 
-Samengevat zijn accountlijsten in AJO B2B een fundamenteel element voor het beheren en ordenen van marketing op basis van account en activiteiten op het gebied van klantbetrokkenheid. Met deze services kunnen gebruikers marketingafspraken voor belangrijke accounts organiseren, als doel instellen en personaliseren, waardoor ze zinvolle interacties en relaties kunnen aansturen.
+Samenvattend vormen accountlijsten in [!DNL Journey Optimizer B2B Edition] een fundamenteel element voor het beheren en ordenen van marketing op basis van account en voor het organiseren van de betrokkenheid van klanten. Met deze services kunt u marketingafspraken voor belangrijke accounts ordenen, aanwijzen en personaliseren, en zo zorgen voor betekenisvolle interacties en relaties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448655/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
