@@ -28,4 +28,4 @@ Nadat accountlijsten zijn gemaakt en met relevante accounts zijn gevuld, kunnen 
 
 Samenvattend vormen accountlijsten in [!DNL Journey Optimizer B2B Edition] een fundamenteel element voor het beheren en ordenen van marketing op basis van account en voor het organiseren van de betrokkenheid van klanten. Met deze services kunt u marketingafspraken voor belangrijke accounts ordenen, aanwijzen en personaliseren, en zo zorgen voor betekenisvolle interacties en relaties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448655/?learn=on&enablevpops&captions=dut)
