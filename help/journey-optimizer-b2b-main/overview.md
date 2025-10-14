@@ -15,13 +15,13 @@ Leer hoe u zoveel mogelijk kunt profiteren van [!DNL Journey Optimizer B2B Editi
 
 ## Nieuwe functies {#whats-new}
 
-* [ het Kopen groepsstadia ](/help/buying-groups/buying-group-stages.md)
+* [&#x200B; het Kopen groepsstadia &#x200B;](/help/buying-groups/buying-group-stages.md)
   _leer hoe te om veelvoudige het kopen fasen van de paginaleven van de groepslevenscyclus binnen één enkel werkgebiedmodel tot stand te brengen en de overgangsregels te specificeren._
 
-* [ luister naar de gebeurtenissen van AEP ](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+* [&#x200B; luister naar de gebeurtenissen van AEP &#x200B;](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
   _bepaal en gebruik om het even welke ervaringsgebeurtenis in uw rekeningsreis._
 
-* [ Betaalde media orkest ](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+* [&#x200B; Betaalde media orkest &#x200B;](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
   _leer hoe te om een reis te gebruiken om mensen in een extern publiek te bewegen, dat u aan om het even welke gesteunde media bestemming in de de bestemmingscatalogus van AEP kunt dan duwen._
 
 ## Meest populaire video&#39;s {#most-popular-videos}
