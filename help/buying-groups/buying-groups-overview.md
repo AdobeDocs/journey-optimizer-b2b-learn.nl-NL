@@ -20,4 +20,4 @@ ht-degree: 88%
 
 Leer alles over inkoopgroepen en hoe u deze kunt gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452939/?captions=dut&learn=on)
