@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: Meer informatie over de onderdelen van een inkoopgroep en de basisbeginselen van het maken van een accounttraject.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
