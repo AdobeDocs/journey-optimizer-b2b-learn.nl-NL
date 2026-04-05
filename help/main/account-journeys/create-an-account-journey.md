@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u accountpubliek, actieknooppunt, listenerknooppunt en gesplitste padknooppunten kunt gebruiken om accountreizen te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443225/?captions=dut&learn=on&enablevpops)
