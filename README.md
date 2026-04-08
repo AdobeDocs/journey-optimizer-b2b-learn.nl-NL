@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVED
 
-Deze reactie is gemigreerd naar <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.en> .
+Deze reactie is gemigreerd naar <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.nl-NL> .
